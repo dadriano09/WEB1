@@ -1,0 +1,145 @@
+body {
+    background-image: url('index_arquivos/back.gif');
+}
+h1.h1 {
+    border-style: dotted dashed solid double;
+    border-width: 6px;
+    border-color: black;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+p.p1 {
+    font-style: Arial;
+    font-size: 25px;
+    text-align: center;
+}
+
+img.img1 {
+    margin: 0 0 25px 500;
+    width:300;
+    height:186;
+  }
+
+table.tab1,td.tab1,th.tab1
+  {
+    border:3px solid black;
+    width:100%;
+    
+  }
+
+p.p2 {
+    font-style: Arial;
+    font-size: 19px;
+    text-align: center;
+}
+
+h3.h2 {
+    border-width: 4px;
+    border-color: black;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+table.tab2,th.tab2,td.tab2
+{
+	border:0px solid black;
+}
+
+img.img2 {
+    margin: 0 0 25px 10;
+    width:200;
+    height:200;
+  }
+
+p.p3{
+    font-style: Arial;
+    font-size: 19px;
+    text-align: center;
+    margin: 0 0 25px 100;   
+  }
+
+h3.h3{
+    border-width: 4px;
+    border-color: black;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+table.tab3,th.tab3,td.tab3
+{
+	border:0px solid black;
+}
+
+img.img3 {
+    margin: 0 0 25px 10;
+    width:247;
+    height:298;
+  }
+
+p.p4{
+    font-style: Arial;
+    font-size: 19px;
+    text-align: center;
+    margin: 0 0 25px 100;   
+  }
+
+h3.h4{
+    border-width: 4px;
+    border-color: black;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+p.p5{
+    font-style: Arial;
+    font-size: 19px;
+
+    margin: 0 0 25px 100;   
+  }
+img.img4 {
+    margin: 0 0 25px 500;
+    width:340;
+    height:178;
+  }
+
+p.p6{
+    font-style: Arial;
+    font-size: 19px;
+
+    margin: 0 0 25px 100;   
+  }
+
+h3.h5{
+    border-width: 4px;
+    border-color: black;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+p.p7{
+    font-style: Arial;
+    font-size: 19px;
+
+    margin: 0 0 25px 100;   
+  }
+
+h3.h6{
+    border-width: 4px;
+    border-color: black;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+p.p8{
+    font-style: Arial;
+    font-size: 19px;
+
+    margin: 0 0 25px 100;   
+  }
