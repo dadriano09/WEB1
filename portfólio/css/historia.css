@@ -1,0 +1,48 @@
+body {
+    background-image: url('index_arquivos/back.gif');
+}
+
+table.tab1,td.tab1,th.tab1
+  {
+    border:3px solid black;
+    width:100%;
+    
+}
+
+h1.h1 {
+    border-style: dotted dashed solid double;
+    border-width: 6px;
+    border-color: black;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+p.p1 {
+    font-style: Arial;
+    font-size: 25px;
+    text-align: center;
+}
+
+table.tab2,td.tab2,th.tab2
+  {
+    border:3px solid black;
+    width:100%;
+    
+}
+
+h2.h2 {
+  border-style: dotted dashed solid double;
+  border-width: 6px;
+  border-color: black;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 30px;
+}
+
+
+p.p2 {
+  font-style: Arial;
+  font-size: 20px;
+  text-align: center;
+}
