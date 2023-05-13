@@ -1,0 +1,64 @@
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+input {
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 100%;
+	max-width: 300px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+
+button {
+	padding: 10px 20px;
+	background-color: #4caf50;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
+#resultado {
+	margin-top: 20px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #000;
+}
+
+#complemento{
+	margin-top: 20px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #000;
+}
+
+table.tab1,td.tab1,th.tab1
+  {
+    border:3px solid black;
+    width:100%;
+    
+  }
