@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+h1.h1 {
+    border-style: dotted dashed solid double;
+    border-width: 6px;
+    border-color: black;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+img.img1 {
+    margin: 0 0 0px 200;
+    width:520;
+    height:360;
+}
+
+p.p1 {
+  font-style: Arial;
+  font-size: 25px;
+  text-align: center;
+}
+
+table.tab1,td.tab1,th.tab1
+  {
+    border:3px solid black;
+    width:100%;
+    
+  }
+
+p.p2 {
+    font-style: Arial;
+    font-size: 19px;
+    text-align: center;
+}
+
+table.tab2,th.tab2,td.tab2
+{
+	border:0px solid black;
+}
+
+img.img2 {
+  margin: 0 0 25px 500;
+  width:360;
+  height:360;
+}
+
+h2.h2 {
+  border-style: dotted dashed solid double;
+  border-width: 6px;
+  border-color: black;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 35px;
+}
+
+dl.dl1 {
+  margin: 0;
+  padding: 0;
+  }
+
+.dl1 dt {
+  margin: 10;
+  padding: 0;
+  font-weight: bold;
+  }
+
+.dl1 dd {
+  margin: 0 0 1em 50;
+  padding: 0;
+  }
+
+ol.ol1 {
+    list-style-type: square;
+  
+}

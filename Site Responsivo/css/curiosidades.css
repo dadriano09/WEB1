@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+h1.h1 {
+    border-style: dotted dashed solid double;
+    border-width: 6px;
+    border-color: black;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+img.img1 {
+    margin: 0 0 0px 250;
+    width:420;
+    height:360;
+}
+
+p.p1 {
+  font-style: Arial;
+  font-size: 25px;
+  text-align: center;
+}
+
+table.tab1,td.tab1,th.tab1
+  {
+    border:3px solid black;
+    width:100%;
+    
+  }
+
+p.p2 {
+    font-style: Arial;
+    font-size: 19px;
+    text-align: center;
+}
+
+table.tab2,th.tab2,td.tab2
+{
+	border:0px solid black;
+}
+
+img.img2 {
+  margin: 0 0 25px 500;
+  width:360;
+  height:360;
+}
+
+h2.h2 {
+  border-style: dotted dashed solid double;
+  border-width: 6px;
+  border-color: black;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 35px;
+}
+
+ol.ol1 {
+  list-style-type: square;
+
+}
