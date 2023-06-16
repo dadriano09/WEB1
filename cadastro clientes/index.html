@@ -8,10 +8,14 @@
 
   <form id="cadastroForm">
     <label for="nome">Nome:</label>
-    <input type="text" id="nome" required><br>
+  
+
+    <input type="text" id="nome" name="nome" placeholder="Nome" pattern="^[a-zA-Z][a-zA-Z-_\.]{1,20}$" required><br>
+
 
     <label for="id">ID:</label>
-    <input type="text" id="id" required><br>
+    <input type="text" id="id" required="required" name="numbers" pattern="[0-9]+$" /><br>
+
 
     <label for="tipoCliente">Tipo de cliente:</label>
     <select >
@@ -29,7 +33,10 @@
     <input type="date" required><br>
 
     <label for="vendedor">Vendedor:</label>
-    <input type="text"required><br>
+
+
+    <input type="text" placeholder="Nome" pattern="^[a-zA-Z][a-zA-Z-_\.]{1,20}$" required><br>
+    
 
     <label for="limiteCredito">Limite de Crédito:</label>
     <input type="number" required><br>
