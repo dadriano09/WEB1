@@ -38,6 +38,9 @@ function handleFormSubmit(event) {
 
     alert("Formulário enviado com sucesso!");
 
+  
+    document.getElementById("omeuh1").innerHTML = `<i>${nome}</i>`;
+
   } catch (error) {
 
     alert("Ocorreu um erro ao enviar o formulário. Por favor, verifique os campos e tente novamente.");
@@ -45,5 +48,8 @@ function handleFormSubmit(event) {
   }
 }
 
+function mudarTitulo(novoTitulo) {
+  document.querySelector("#omeuh1").innerHTML = novoTitulo;
+}
 
 document.getElementById("cadastroForm").addEventListener("submit", handleFormSubmit);
